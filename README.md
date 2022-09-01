@@ -1,2 +1,2 @@
 # Leo-Music
-Created Spotify Clone Music Player using HTML, CSS, JavaScript only.
+Created Spotify Clone Music Player Website using HTML, CSS, JavaScript only.
